@@ -7,6 +7,9 @@ public class Operadores {
 
         System.out.println("numero 1 é igual a numero2? " + simNao);
 
+        simNao = number1 != number2;
+
+        System.out.println("numero 1 é igual a numero2? " + simNao);
         
 
 
